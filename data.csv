@@ -1,0 +1,49 @@
+id,name,cuisine,diet,calories,protein,spice,ingredients,emoji
+1,Paneer Butter Masala,Indian,Vegetarian,450,18,Medium,paneer tomato butter cream spices,🧀
+2,Masala Dosa,South Indian,Vegetarian,320,8,Medium,rice urad dal potato spices,🥞
+3,Idli Sambar,South Indian,Vegan,250,7,Low,rice urad dal lentils vegetables,🍘
+4,Chicken Biryani,Indian,Non-Vegetarian,650,35,High,chicken rice onion tomato spices,🍗
+5,Vegetable Biryani,Indian,Vegan,420,10,Medium,rice vegetables onion spices,🍚
+6,Butter Chicken,Indian,Non-Vegetarian,550,32,Medium,chicken butter tomato cream spices,🍗
+7,Chole Bhature,North Indian,Vegan,600,15,High,chickpeas flour onion tomato spices,🥘
+8,Rajma Rice,North Indian,Vegan,400,14,Medium,rajma rice tomato onion spices,🍛
+9,Palak Paneer,North Indian,Vegetarian,380,20,Low,paneer spinach cream spices,🥬
+10,Aloo Paratha,North Indian,Vegetarian,350,9,Medium,wheat potato butter spices,🫓
+11,Veg Pulao,Indian,Vegan,360,8,Low,rice vegetables spices,🍚
+12,Dal Tadka,Indian,Vegetarian,280,12,Medium,lentils tomato onion ghee spices,🥣
+13,Samosa,Indian,Vegan,260,5,Medium,potato flour peas spices,🥟
+14,Pav Bhaji,Maharashtrian,Vegan,390,9,Medium,potato tomato peas butter bread spices,🥖
+15,Vada Pav,Maharashtrian,Vegan,300,7,Medium,potato flour bread spices,🍔
+16,Misal Pav,Maharashtrian,Vegan,450,15,High,sprouts onion tomato spices bread,🌶️
+17,Pongal,South Indian,Vegetarian,330,9,Low,rice moong dal ghee pepper,🍲
+18,Vegetable Uttapam,South Indian,Vegan,290,8,Low,rice vegetables onion tomato,🥞
+19,Chicken Tikka,Indian,Non-Vegetarian,420,38,High,chicken yogurt spices lemon,🍗
+20,Tandoori Chicken,Indian,Non-Vegetarian,390,40,Medium,chicken yogurt spices lemon,🍗
+21,Fish Curry,Kerala,Non-Vegetarian,480,32,Medium,fish coconut milk curry leaves spices,🐟
+22,Appam,Kerala,Vegan,220,5,Low,rice coconut yeast,🥞
+23,Veg Korma,Indian,Vegetarian,430,12,Low,vegetables coconut cream spices,🥘
+24,Matar Paneer,North Indian,Vegetarian,410,19,Medium,paneer peas tomato cream spices,🧀
+25,Dhokla,Gujarati,Vegan,210,8,Low,gram flour yogurt spices,🍰
+26,Khandvi,Gujarati,Vegetarian,190,7,Low,gram flour yogurt coconut spices,🌯
+27,Thepla,Gujarati,Vegetarian,280,8,Medium,wheat fenugreek yogurt spices,🫓
+28,Pani Puri,Indian,Vegan,180,4,High,semolina potato chickpeas mint spices,🥗
+29,Bhel Puri,Indian,Vegan,220,6,Medium,puffed rice potato onion chutney spices,🥗
+30,Fruit Salad,International,Vegan,150,2,Low,apple banana orange grapes honey,🍎
+31,Greek Salad,Mediterranean,Vegetarian,250,7,Low,tomato cucumber olive feta lettuce,🥗
+32,Margherita Pizza,Italian,Vegetarian,520,20,Low,tomato mozzarella basil flour,🍕
+33,Pasta Arrabbiata,Italian,Vegan,430,12,High,pasta tomato garlic chili basil,🍝
+34,Veggie Burger,International,Vegan,450,16,Medium,beans lettuce tomato bread spices,🍔
+35,Grilled Chicken Salad,International,Non-Vegetarian,350,35,Low,chicken lettuce tomato cucumber olive,🥗
+36,Chicken Pasta,Italian,Non-Vegetarian,560,30,Medium,chicken pasta tomato cheese herbs,🍝
+37,Veg Fried Rice,Chinese,Vegan,400,9,Medium,rice vegetables soy sauce spring onion,🍚
+38,Chicken Fried Rice,Chinese,Non-Vegetarian,520,28,Medium,chicken rice vegetables soy sauce,🍚
+39,Hakka Noodles,Chinese,Vegan,430,10,High,noodles cabbage carrot soy sauce chili,🍜
+40,Manchurian,Chinese,Vegan,380,9,High,cabbage flour garlic soy sauce chili,🥢
+41,Sushi,Japanese,Non-Vegetarian,350,25,Low,rice fish seaweed soy sauce,🍣
+42,Ramen,Japanese,Non-Vegetarian,500,22,Medium,noodles chicken egg vegetables,🍜
+43,Tofu Stir Fry,Chinese,Vegan,300,18,Medium,tofu broccoli carrot soy sauce,🥦
+44,Falafel Wrap,Mediterranean,Vegan,390,14,Medium,chickpeas lettuce tomato tahini pita,🌯
+45,Hummus Plate,Mediterranean,Vegan,280,10,Low,chickpeas tahini olive oil garlic pita,🧆
+46,Tacos,Mexican,Vegan,420,12,Medium,beans corn tomato lettuce tortilla,🌮
+47,Chicken Tacos,Mexican,Non-Vegetarian,480,30,Medium,chicken corn tomato lettuce tortilla,🌮
+48,Guacamole Nachos,Mexican,Vegan,450,8,Medium,avocado corn chips tomato onion,🥑
